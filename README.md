@@ -7,7 +7,9 @@ The Work Day Scheduler is a calendar application that allows users to save event
 
 # Work Day Scheduler Screenshot
 
-Features
+![Screenshot of daily planner with events] (https://github.com/shambo-rambo/daily-planner/blob/main/assets/images/Screenshot%20of%20planner.png?raw=true)
+
+# Features
 Current Day Display: At the top of the calendar, the current day is displayed.
 
 Time Blocks: The scheduler displays time blocks for standard business hours (9 a.m. to 5 p.m.).
@@ -19,18 +21,20 @@ The current hour is highlighted in red.
 Future hours are shown in green.
 Persistent Data: Events are saved in localStorage, ensuring that the user's input persists even when refreshing or revisiting the page.
 
-Usage
+# Usage
 Open the Work Day Scheduler.
 Scroll to the desired hour.
 Click into the text area of that hour's time block and enter your event or task.
 Click the save button (represented by the floppy disk icon) to the right of the text area to save the event.
 Events remain on the page even after refreshing.
-Dependencies
+
+# Dependencies
 Bootstrap: For styling and layout.
 Font Awesome: For icons.
 Google Fonts: For typography.
 jQuery: For DOM manipulation.
 Day.js: For date and time functions.
-Installation
+
+# Installation
 Clone the repository or download the ZIP file.
 Open index.html in your preferred browser.
