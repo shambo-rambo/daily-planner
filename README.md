@@ -7,7 +7,7 @@ The Work Day Scheduler is a calendar application that allows users to save event
 
 # Work Day Scheduler Screenshot
 
-![Screenshot of daily planner with events] (https://github.com/shambo-rambo/daily-planner/blob/main/assets/images/Screenshot%20of%20planner.png?raw=true)
+![Screenshot of daily planner with events](https://github.com/shambo-rambo/daily-planner/blob/main/assets/images/Screenshot%20of%20planner.png?raw=true)
 
 # Features
 Current Day Display: At the top of the calendar, the current day is displayed.
